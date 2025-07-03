@@ -12,7 +12,7 @@ This code and data allow to reproduce the computational modeling part of the man
 
 ## Content
 
-In this repository, you can find the follwing contents:
+In this repository, you can find the following contents:
 
 ### network_code
 
