@@ -2,8 +2,10 @@ This code and data allow to reproduce the computational modeling part of the man
 
 # Sub-type Specific Connectivity between CA3 Pyramidal Neurons May Underlie Their Sequential Activation during Sharp Waves
 
-**Authors:** Rosanna P. Sammons*, Stefano Masserini*, Laura Moreno-Velasquez, Verjinia D. Metodieva, Gaspar Cano, Andrea Sannio, Marta Orlando, Nikolaus Maier, Richard Kempter, Dietmar Schmitz  
+**Authors:** Rosanna P. Sammons*, Stefano Masserini*, Laura Moreno-Velasquez, Verjinia D. Metodieva, Gaspar Cano, Andrea Sannio, Marta Orlando, Nikolaus Maier, Richard Kempter, Dietmar Schmitz
+
 **Publication:** eLife13:RP98653
+
 **DOI**: https://doi.org/10.7554/eLife.98653.2.sa2
 
 ---
