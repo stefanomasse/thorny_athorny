@@ -55,9 +55,6 @@ This is a folder containing the most important intermediate and final data produ
 - `single_neuron_traces/`: folder containing pre-computed time traces of relevant variables, used to plot the single neuron f-I curves in Figure 4, supplement 1.
 - `network_traces/`: folder containing pre-computed time traces of relevant variables, used to plot the network samples in Figures 4, 4 supplement 2, and 4 supplement 3.
 
-- `run_all.sh`: automatically generates all figures  
-- `clean_all.sh`: cleans all auto-generated files  
-
 ## How to use the scripts
 
 ### Generate Manuscript Figures
