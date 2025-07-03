@@ -25,7 +25,7 @@ This is a folder, containing the necessary python code to set up and simulate th
 
 ### Main files
 
-The main folder containes python files and notebooks that use the code in the the `network_code/` folder in order to run simulations and produce the figures in the paper:
+The main folder contains python files and notebooks that use the code in the the `network_code/` folder in order to run simulations and produce the figures in the paper:
  
   - `functions_for_parameters_sweeps.py`: contains the functions used to simulate the network with different connectivity values and to analyze the outcomes. Namely
       these functions allow to first find the EE synaptic weights to balance network activity, then to simulate the balanced network and save the prepocessed results,
