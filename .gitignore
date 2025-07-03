@@ -1,5 +1,4 @@
 *.npz
-*.npy
 *.png
 *.pdf
 *.pyc
